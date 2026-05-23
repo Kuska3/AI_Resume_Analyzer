@@ -69,9 +69,7 @@ ai-resume-analyzer/
 │   ├── public/
 │   └── package.json
 │
-├── screenshots/
-├── README.md
-└── implementation_plan.md
+└── README.md
 ```
 
 ---
@@ -156,7 +154,7 @@ DELETE /api/history/{id}
 
 ## Screenshots
 
-Add screenshots here after UI completion.
+Add screenshots here after UI completion.(Soon....)
 
 ---
 
